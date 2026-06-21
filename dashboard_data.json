@@ -1,0 +1,396 @@
+{
+  "product_scorecard": [
+    {
+      "product": "Kindle E-reader",
+      "reviews": 63,
+      "avg_rating": 4.65,
+      "avg_sentiment": 0.54,
+      "defect_flags": 4,
+      "defect_rate_pct": 6.3,
+      "return_signals": 1
+    },
+    {
+      "product": "Fire HD 8 Tablet",
+      "reviews": 381,
+      "avg_rating": 4.58,
+      "avg_sentiment": 0.52,
+      "defect_flags": 15,
+      "defect_rate_pct": 3.9,
+      "return_signals": 5
+    },
+    {
+      "product": "Fire Kids Edition Tablet",
+      "reviews": 239,
+      "avg_rating": 4.51,
+      "avg_sentiment": 0.53,
+      "defect_flags": 8,
+      "defect_rate_pct": 3.3,
+      "return_signals": 5
+    },
+    {
+      "product": "Fire 7 Tablet",
+      "reviews": 152,
+      "avg_rating": 4.59,
+      "avg_sentiment": 0.48,
+      "defect_flags": 5,
+      "defect_rate_pct": 3.3,
+      "return_signals": 2
+    },
+    {
+      "product": "AmazonBasics AAA Batteries",
+      "reviews": 440,
+      "avg_rating": 4.46,
+      "avg_sentiment": 0.36,
+      "defect_flags": 6,
+      "defect_rate_pct": 1.4,
+      "return_signals": 2
+    },
+    {
+      "product": "AmazonBasics AA Batteries",
+      "reviews": 220,
+      "avg_rating": 4.44,
+      "avg_sentiment": 0.4,
+      "defect_flags": 2,
+      "defect_rate_pct": 0.9,
+      "return_signals": 3
+    }
+  ],
+  "top_complaints": [
+    {
+      "theme": "durability",
+      "mentions": 16
+    },
+    {
+      "theme": "performance_speed",
+      "mentions": 12
+    },
+    {
+      "theme": "price_value",
+      "mentions": 10
+    },
+    {
+      "theme": "customer_service",
+      "mentions": 10
+    },
+    {
+      "theme": "battery_life",
+      "mentions": 6
+    },
+    {
+      "theme": "screen_display",
+      "mentions": 5
+    }
+  ],
+  "defect_by_theme": [
+    {
+      "theme": "durability",
+      "defect_mentions": 40
+    },
+    {
+      "theme": "kids_usability",
+      "defect_mentions": 11
+    },
+    {
+      "theme": "customer_service",
+      "defect_mentions": 11
+    },
+    {
+      "theme": "price_value",
+      "defect_mentions": 10
+    },
+    {
+      "theme": "battery_life",
+      "defect_mentions": 10
+    },
+    {
+      "theme": "screen_display",
+      "defect_mentions": 8
+    }
+  ],
+  "monthly_trend": [
+    {
+      "month": "2014-10",
+      "reviews": 2,
+      "avg_sentiment": 0.53,
+      "defect_rate_pct": 50.0
+    },
+    {
+      "month": "2014-11",
+      "reviews": 2,
+      "avg_sentiment": 0.7,
+      "defect_rate_pct": 0.0
+    },
+    {
+      "month": "2014-12",
+      "reviews": 1,
+      "avg_sentiment": 0.8,
+      "defect_rate_pct": 0.0
+    },
+    {
+      "month": "2015-01",
+      "reviews": 2,
+      "avg_sentiment": 0.8,
+      "defect_rate_pct": 0.0
+    },
+    {
+      "month": "2015-02",
+      "reviews": 1,
+      "avg_sentiment": 0.6,
+      "defect_rate_pct": 0.0
+    },
+    {
+      "month": "2015-03",
+      "reviews": 6,
+      "avg_sentiment": 0.57,
+      "defect_rate_pct": 0.0
+    },
+    {
+      "month": "2015-04",
+      "reviews": 7,
+      "avg_sentiment": 0.37,
+      "defect_rate_pct": 0.0
+    },
+    {
+      "month": "2015-05",
+      "reviews": 8,
+      "avg_sentiment": 0.35,
+      "defect_rate_pct": 0.0
+    },
+    {
+      "month": "2015-06",
+      "reviews": 12,
+      "avg_sentiment": 0.62,
+      "defect_rate_pct": 0.0
+    },
+    {
+      "month": "2015-07",
+      "reviews": 15,
+      "avg_sentiment": 0.31,
+      "defect_rate_pct": 6.7
+    },
+    {
+      "month": "2015-08",
+      "reviews": 10,
+      "avg_sentiment": 0.44,
+      "defect_rate_pct": 0.0
+    },
+    {
+      "month": "2015-09",
+      "reviews": 19,
+      "avg_sentiment": 0.49,
+      "defect_rate_pct": 0.0
+    },
+    {
+      "month": "2015-10",
+      "reviews": 21,
+      "avg_sentiment": 0.42,
+      "defect_rate_pct": 0.0
+    },
+    {
+      "month": "2015-11",
+      "reviews": 14,
+      "avg_sentiment": 0.34,
+      "defect_rate_pct": 0.0
+    },
+    {
+      "month": "2015-12",
+      "reviews": 24,
+      "avg_sentiment": 0.31,
+      "defect_rate_pct": 0.0
+    },
+    {
+      "month": "2016-01",
+      "reviews": 33,
+      "avg_sentiment": 0.46,
+      "defect_rate_pct": 3.0
+    },
+    {
+      "month": "2016-02",
+      "reviews": 22,
+      "avg_sentiment": 0.4,
+      "defect_rate_pct": 0.0
+    },
+    {
+      "month": "2016-03",
+      "reviews": 22,
+      "avg_sentiment": 0.31,
+      "defect_rate_pct": 0.0
+    },
+    {
+      "month": "2016-04",
+      "reviews": 28,
+      "avg_sentiment": 0.44,
+      "defect_rate_pct": 3.6
+    },
+    {
+      "month": "2016-05",
+      "reviews": 39,
+      "avg_sentiment": 0.38,
+      "defect_rate_pct": 2.6
+    },
+    {
+      "month": "2016-06",
+      "reviews": 34,
+      "avg_sentiment": 0.55,
+      "defect_rate_pct": 2.9
+    },
+    {
+      "month": "2016-07",
+      "reviews": 50,
+      "avg_sentiment": 0.48,
+      "defect_rate_pct": 2.0
+    },
+    {
+      "month": "2016-08",
+      "reviews": 38,
+      "avg_sentiment": 0.38,
+      "defect_rate_pct": 2.6
+    },
+    {
+      "month": "2016-09",
+      "reviews": 61,
+      "avg_sentiment": 0.46,
+      "defect_rate_pct": 1.6
+    },
+    {
+      "month": "2016-10",
+      "reviews": 63,
+      "avg_sentiment": 0.47,
+      "defect_rate_pct": 3.2
+    },
+    {
+      "month": "2016-11",
+      "reviews": 61,
+      "avg_sentiment": 0.47,
+      "defect_rate_pct": 1.6
+    },
+    {
+      "month": "2016-12",
+      "reviews": 152,
+      "avg_sentiment": 0.51,
+      "defect_rate_pct": 0.7
+    },
+    {
+      "month": "2017-01",
+      "reviews": 227,
+      "avg_sentiment": 0.48,
+      "defect_rate_pct": 2.2
+    },
+    {
+      "month": "2017-02",
+      "reviews": 94,
+      "avg_sentiment": 0.46,
+      "defect_rate_pct": 2.1
+    },
+    {
+      "month": "2017-03",
+      "reviews": 105,
+      "avg_sentiment": 0.44,
+      "defect_rate_pct": 5.7
+    },
+    {
+      "month": "2017-04",
+      "reviews": 56,
+      "avg_sentiment": 0.43,
+      "defect_rate_pct": 7.1
+    },
+    {
+      "month": "2017-05",
+      "reviews": 81,
+      "avg_sentiment": 0.42,
+      "defect_rate_pct": 4.9
+    },
+    {
+      "month": "2017-06",
+      "reviews": 42,
+      "avg_sentiment": 0.3,
+      "defect_rate_pct": 4.8
+    },
+    {
+      "month": "2017-07",
+      "reviews": 22,
+      "avg_sentiment": 0.47,
+      "defect_rate_pct": 4.5
+    },
+    {
+      "month": "2017-08",
+      "reviews": 27,
+      "avg_sentiment": 0.44,
+      "defect_rate_pct": 3.7
+    },
+    {
+      "month": "2017-09",
+      "reviews": 6,
+      "avg_sentiment": 0.77,
+      "defect_rate_pct": 0.0
+    },
+    {
+      "month": "2017-10",
+      "reviews": 7,
+      "avg_sentiment": 0.4,
+      "defect_rate_pct": 0.0
+    },
+    {
+      "month": "2017-11",
+      "reviews": 5,
+      "avg_sentiment": 0.18,
+      "defect_rate_pct": 0.0
+    },
+    {
+      "month": "2017-12",
+      "reviews": 32,
+      "avg_sentiment": 0.53,
+      "defect_rate_pct": 3.1
+    },
+    {
+      "month": "2018-01",
+      "reviews": 16,
+      "avg_sentiment": 0.6,
+      "defect_rate_pct": 6.3
+    },
+    {
+      "month": "2018-02",
+      "reviews": 6,
+      "avg_sentiment": 0.57,
+      "defect_rate_pct": 0.0
+    },
+    {
+      "month": "2018-03",
+      "reviews": 9,
+      "avg_sentiment": 0.38,
+      "defect_rate_pct": 0.0
+    },
+    {
+      "month": "2018-04",
+      "reviews": 8,
+      "avg_sentiment": 0.42,
+      "defect_rate_pct": 0.0
+    },
+    {
+      "month": "2018-05",
+      "reviews": 4,
+      "avg_sentiment": 0.65,
+      "defect_rate_pct": 0.0
+    },
+    {
+      "month": "2018-09",
+      "reviews": 1,
+      "avg_sentiment": 0.6,
+      "defect_rate_pct": 0.0
+    }
+  ],
+  "sentiment_split": [
+    {
+      "sentiment": "mixed",
+      "n": 447
+    },
+    {
+      "sentiment": "negative",
+      "n": 37
+    },
+    {
+      "sentiment": "positive",
+      "n": 1011
+    }
+  ]
+}
