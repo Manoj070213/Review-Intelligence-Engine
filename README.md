@@ -1,6 +1,6 @@
 # Review Intelligence Engine
 
-Turn messy consumer-product reviews into structured, decision-ready intelligence using an LLM. Built around the SharkNinja Data/AI Analyst role.
+Turn messy consumer-product reviews into structured, decision-ready intelligence using an LLM. 
 
 ## What it does
 Raw reviews → clean → **LLM extraction** (sentiment, themes, defect risk, feature requests) → SQL aggregation → interactive dashboard.
@@ -48,9 +48,4 @@ closed list of theme labels, which is the key to making the output aggregatable.
 - `output/dashboard_data.json` — aggregated tables (drop into Tableau/Power BI)
 - `data/amazon_reviews_real.csv` — the source dataset
 
-## The interview story in one line
-"I built a pipeline that reads every product review, flags defect risk and feature
-requests automatically, and surfaces it on a dashboard — and the hardest, most
-valuable part was learning that constraining the model's INPUT (a schema-locked
-prompt) is what made the OUTPUT usable, which I proved by measuring accuracy against
-a hand-labeled set."
+
